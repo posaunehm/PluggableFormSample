@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SampleForm", "SampleForm\SampleForm.csproj", "{2487719A-8B2A-4197-AC47-BF96C770196B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConcreteTextView", "ConcreteTextView\ConcreteTextView.csproj", "{0A5C1BA9-4A3C-45D8-9045-1B92022AA506}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Main", "Main\Main.csproj", "{12C078A2-F77F-4356-921D-F9F1036258A3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConcreteGridViewImpl", "ConcreteGridViewImpl\ConcreteGridViewImpl.csproj", "{994CB6AB-371E-4D44-A289-C0F2D6D09DFD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2487719A-8B2A-4197-AC47-BF96C770196B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2487719A-8B2A-4197-AC47-BF96C770196B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2487719A-8B2A-4197-AC47-BF96C770196B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2487719A-8B2A-4197-AC47-BF96C770196B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0A5C1BA9-4A3C-45D8-9045-1B92022AA506}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0A5C1BA9-4A3C-45D8-9045-1B92022AA506}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0A5C1BA9-4A3C-45D8-9045-1B92022AA506}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0A5C1BA9-4A3C-45D8-9045-1B92022AA506}.Release|Any CPU.Build.0 = Release|Any CPU
+		{12C078A2-F77F-4356-921D-F9F1036258A3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{12C078A2-F77F-4356-921D-F9F1036258A3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{12C078A2-F77F-4356-921D-F9F1036258A3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{12C078A2-F77F-4356-921D-F9F1036258A3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{994CB6AB-371E-4D44-A289-C0F2D6D09DFD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{994CB6AB-371E-4D44-A289-C0F2D6D09DFD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{994CB6AB-371E-4D44-A289-C0F2D6D09DFD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{994CB6AB-371E-4D44-A289-C0F2D6D09DFD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
